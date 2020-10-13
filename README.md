@@ -1,8 +1,5 @@
 # Three.js TypeScript Boilerplate
 
-> This boilerplate was created as a sub project of my [ThreeJS and TypeScript Course](https://www.udemy.com/course/threejs-tutorials/?referralCode=4C7E1DE91C3E42F69D0F) and is only just the beginning of what you will create.
-  Discount Coupon : https://sbcode.net/coupons#threejs
-
 When run, the boilerplate shows a green wireframe rotating cube, with OrbitControls included. 
 
 [Example](https://sbcode.net/threejs/threejs-typescript-boilerplate/)
@@ -179,10 +176,3 @@ npm run dev
 View example on [CodeSandbox.io](https://codesandbox.io/s/github/Sean-Bradley/Three.js-TypeScript-Boilerplate/tree/csg/)
 
 
----
-
-## ThreeJS and TypeScript Course Introduction Video
-
-This boilerplate was created as a sub project of my [ThreeJS and TypeScript Course](https://www.udemy.com/course/threejs-tutorials/?referralCode=4C7E1DE91C3E42F69D0F) and is only just the beginning of what you will create.
-
-[![ThreeJS and TypeScript Course](docs/threejs-course-image.png)](https://youtu.be/fS4H7gm7gK4)
